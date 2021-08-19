@@ -1,0 +1,53 @@
+.mb{
+    font-family: STIX TWO TEXT;
+}
+body{
+    overflow-x: hidden;
+}
+
+.wav{
+    height: 27%;
+    width: 25%;
+    padding-left: 0rem;
+    padding-bottom: 8rem;
+    margin-left: 2rem;
+    margin-bottom: -10rem;
+    margin-top: -9rem;
+    position: relative;
+}
+
+header li:hover{
+    background-color:#36454f;
+    border-radius: 3rem;
+}
+#home{
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    font-size: 38px;
+    padding-top: 2rem;
+}
+
+header li{
+    font-family: STIX TWO TEXT;
+}
+
+.hdi{
+    margin-left: 4rem;
+    font-family: TWO TEXT;
+    margin-bottom: -2;
+}
+
+.hdd{
+    margin-top: 8rem;
+}
+.mav{
+    padding-top: 4rem;
+}
+.imh{
+    width: 70%;
+    height: 100%;
+    padding-left: 2rem;
+    margin-top: 1rem;
+}
+.bgg{
+    background-color:lightgray;
+}
