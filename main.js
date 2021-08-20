@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $("#btt").click(function(){
-        $(".fr").slideToggle(3000,function(){
+        $(".fr").slideToggle(2000,function(){
             alert("Message Send");
             $('#btt').html("Success!");
             $('#btt').css({"border-color":"#5cb85c"})
